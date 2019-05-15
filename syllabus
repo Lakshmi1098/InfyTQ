@@ -1,0 +1,270 @@
+TCS EnQuode 2019 - SYLLABUS   	
+S.No	Topics
+1	"Introduction To Software Testing, Basics, Definition - Its Nuances &
+Requirements"
+	"Definition Of Testing, What Is Software Testing & Why
+Is It Required;"
+	Test Phases;
+	What should be Tested;
+	What could be Tested;
+	Software Development Life Cycle;
+	Software Testing Life Cycle;
+	Software Quality;
+	Dimensions Of Quality;
+	Software Quality Assurance;
+	What Is Software Quality & Quality Assurance;
+	Software Quality Control;
+	Verification Vs Validation;
+	Testing Policies & Standards;
+	Software Testing Myths;
+	Requirements of a Schedule.
+2	"Phases, Foundation Of Test Process, Role Of Tester, Concept Of
+Test Projects & Its Scope"
+	                        Base / Foundation of Test Process & Its Requirements;
+	                        Design Review;
+	                        Test Planning;
+	                        Test Design;
+	                        Test Environment Setup;
+	Need of Test Process & Its Advantages;
+	Testers – Roles & Responsibilities;
+	Testers & Test System;
+	Concept of Test Project;
+	Scope of Test Project & Its Importance;
+	Test Schedule Fitment Into the Project;
+	Assessing Capabilities, Organizing Logistics;
+	Test Configuration, Test Development  & Monitoring Test Execution &
+	Test Reporting.
+3	Definition, Design Of A Test Plan, Scope Of A Test Plan, Test Plan Focus Area
+	Definition of a Test Plan;
+	Need of a Test Plan;
+	Design of a Test plan;
+	Mode of Writing a Test Plan;
+	Scope of a Test Plan & Key Focus Areas of a Test Plan;
+	Entry & Exit Criteria;
+	 Types of Test Plan;
+	 Key Test Planning Components;
+	 Test Strategy &
+	 High Level Test Planning &
+	" Importance of Selling a Test Plan – Need to have more Clarity, 
+ Pertinence & Action."
+4	System Architecture, Test Cases, Coverage
+	System Architecture & Its Nuances;
+	Principles of System Architecture & Its Importance;
+	Creation of Test Conditions;
+	Test Cases – Need of a Test Case, Way of Writing a Test Case;
+	General Guidelines & Structure Of Test Case;
+	Test Case Design Techniques, Types Of Black Box & White Box Testing &
+	"Areas of Coverage for a Test Case - Importance Of Coverage & 
+Areas of Coverage such as Configuration, Bug Coverage."
+5	Good Test Programs - Construction, Development & Its Importance
+	Need to have a Good Test Program;
+	Importance of Test Programs &
+	Construction & Development Of A Test Program.
+6	Levels Of Testing 
+	Unit Testing;
+	Integration Testing;
+	System Testing  &
+	Acceptance Testing.
+7	Methods Of Testing 
+	Black Box Testing;
+	White Box Testing; 
+	Gray Box Testing;
+	Manual Testing;
+	Automation Testing &
+	Agile Testing.
+8	Types Of Testing 
+	Smoke Testing;
+	Installation Tesing;
+	Functional Testing;
+	Look & Feel Testing;
+	Usability Testing;
+	Accessibility Testing;
+	Browser / Device Compatibility Testing; 
+	Performance Testing (Load / Stress)/Performance Engineering
+	Security Testing;
+	Content Testing;
+	Conformance Testing &
+	Regression Testing.
+9	Definition Of Bug & Ways, Means Of Tracking The Bugs
+	Definition of Bug;
+	What Is Bug & Reason For The Bug;
+	"Mode of Capturing Bug – Root Cause Analysis of the Bug & 
+Effective Resolution &"
+	Tracking of Bugs - Ways & Means to have a Bug Tracking System.
+10	Defect Management
+	What Is A Defect;
+	What Are Defect Categories;
+	Process Of Defect Life Cycle ; 
+	Defect Severity;
+	Defect Probability;
+	Defect Priority;
+	Defect Report;
+	Defect Tracking &
+	Importance Of Defect Management Tools.
+11	Use Cases,Test Cases - Tracking & Reuse Of Test Cases- When & where
+	 What Is A Use Case;
+	 Creation Of Use Case Scenarios;
+	 Generation Of Test Case Using Use Cases;
+	Concept of Test Cases & Need to Write a Test Case;
+	 Tracking of Test Cases;
+	 Managing the Test Cases towards the Requirement Fitment &
+	" Modus to Find Out the Reusability of Test Cases as to When & 
+ Where they can be used."
+12	Software Errors
+	What Is A Software Error, How They Are Detected &
+	What Are Common Software Errors.
+13	Risk Analysis
+	What Is A Software Risk &
+	What Are Risk Analysis Process.
+14	Artifacts
+	Test Plan;
+	Test Case;
+	Test Script;
+	Test Data;
+	Test Suite;
+	Test Harness &
+	Test Report.
+15	Test Execution
+	Overview Of Test Execution Process;
+	Challenges In Test Execution;
+	Test Entry & Exit Criteria;
+	Methods Of Test Execution;
+	Test Coverage & Test Environment &
+	Analysis & Use Of Test Results.
+16	Testing Tools, Software Test Automation & Its Importance
+	Requirements For A Test Tool;
+	Defect Tracking Tools;
+	Functional Testing Tools;
+	Performance Testing Tools;
+	Unit Testing Tools;
+	Test Automation Tools; 
+	Scope Of  Automation;
+	Need For Automation;
+	Design & Architecture Framework For Automation;
+	Manual Vs Automation Testing;
+	Factors Determining Test Automation;
+	Approaches To Automation;
+	Challenges In Software Test Automation;
+	"Different Test Automation Tools - QC, QTP, Load Runner, Selenium,Its 
+Importance &"
+	Skills Needed For Automation.
+17	Metrics
+	Defect Age;
+	Defect Density;
+	Defect Detection Efficiency;
+	Defect Removal Efficiency;
+	Test Coverage;
+	Test Effort Variance;
+	Test Schedule Variance &
+	Cost Of Quality.
+18	Testing - Completion & Continuous Improvement
+	Agile Way of Working
+	DevOps Basics
+	Road towards Continuous Improvement.
+19	Digital Assurance - Basics
+	Mobile Testing
+	Cloud tesing
+	Social media testing
+	Analytics
+	Big data Testing
+20	Tools 
+	Selenium
+	J-meter
+21	Introduction To Performance Testing, Basics, Definition
+	"Definition Of Performance Testing, What Is Performance Testing & Why
+Is It Required;"
+	Performance Testing Terminologies
+22	Performance Testing Lifecycle & Phases
+	                        Overview of PTLC
+	                        Requirement Gathering and Analysis
+	                        Performance Test Planning;
+	                        Performance Test Design & Environment Setup;
+	                        Test Execution
+	Performance Test Reporting
+	Testers – Roles & Responsibilities;
+23	Performance Testing Types
+	Load Test
+	Stress Test
+	Volume Test
+	Scalability Test
+	Endurance/Soak Test
+	Baseline Test
+	Spike Test
+	Failover Test
+24	Performance Testing in Different Areas
+	Mobile Performance Testing
+	Cloud Performance Testing
+	Batch Performance Testing
+	SOA Performance Testing
+	Big data Performance Testing
+25	Performance Test Scripting
+	How to create a performance test script
+	Why to customize the recorded script
+	Communications Protocols and it's importance in scripting
+	Parameterization
+	Correlation
+	Text Check
+26	Server Monitoring
+	Why monitoring is required?
+	Metrics to be monitored
+	Tools available for monitoring
+	How to monitor using commands in Windows and Linux
+27	Performance Test Design 
+	Workload Analysis and Defining
+	Performance Test Scenario
+	Think-time
+	Ramp-up and Ramp-down
+	Business Transactions
+28	Performance Test Plan Design
+	Definition of a Test Plan;
+	Need of a Test Plan;
+	Design of a Test plan;
+	Scope of a Test Plan & Key Focus Areas of a Test Plan;
+	Entry & Exit Criteria;
+	Performance Test Strategy & SLA
+	Test Environment details and Test data
+29	Performance Testing Environment
+	Environment configuration
+	Configuration comparison with Production environment
+	Pre-production Environment
+	Cloud vs. On premises environment
+	Data Volume
+30	Performance Tool Environment
+	Components of performance testing tool
+	Scripting Component
+	Controller Component
+	Result Analysis Component
+	Load Injectors/generators
+	Cloud load generators
+	Maximum No. of Users on each Load Generators
+31	Performance Tool Details
+	 Importance of tools in performance testing
+	 Different tools in the market: Load runner, J-meter, Neoload, Performance Center etc..
+	 License models available for performance testing
+	Open Source and Commercial Tools
+	Factors deciding the cost of the tool
+	Market share of the tools
+32	Performance Engineering
+	What is Performance Engineering
+	Performance Testing vs. Performance Engineering
+	Role for Performance Tester in Performance Engineering
+	Tools used for Performance Engineering
+	Metrics collected in Performance Engineering
+33	Performance Metrics
+	Response Time
+	Hits Per Second
+	Throughput
+	Error/Status Code
+	CPU Usage
+	Memory Usage
+	Disk Usage
+	Run Queue
+	GC logs
+	Paging/Swapping
+34	Agile, Continuous Performance Testing & DevOps
+	Agile Performance Testing approach
+	CI Tools for PT
+	DevOps PT
+	Approach for CI PT
+35	Programming
+	Java, Python
