@@ -6,8 +6,6 @@ def list123(nums):
         else:
             return False
 
-    
-
 nums=[1,2,1,4,3]
 print(list123(nums))
 
